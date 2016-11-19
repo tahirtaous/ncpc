@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Welcome"
+date: 2016-11-01 10:49:54 +0500
+categories: coupons, promoCodes
+image: assets/images/namecheap-coupon-code.png
+excerpt: Promo codes and discount coupon codes for November 2016 to buy affordable hosting and cheap Domain names from NameCheap.com.
+---
+
+<img src="{{site.baseurl}}/assets/images/namecheap-coupon-code.png" alt="namecheap-coupon-code november 2016">
+
+Here you can find NameCheap discount coupon codes and promo codes. NameCheap is one of the most popular Domain name and hosting provider services online.
+
+You can register domain names as low as $3.98/Year and affordable shared hosting plans are starting from $9.88/Year.
+
+If you want to start a blog, simply choose a domain name and affordable hosting plan and promote your business and products online.
+
+We will also publish tutorials and how to guide about blogging and webhosting. After reading our tutorials, You will be able to host your own websites and blogs at <a href="namecheap.com" rel="nofollow" onmousedown="this.href='https://www.namecheap.com/?aff=65493';" title="Register Domain name and Buy Affordable Hosting">NameCheap.com</a>
+
+**NOTE:** We are not affiliated with <a href="namecheap.com" rel="nofollow" onmousedown="this.href='https://www.namecheap.com/?aff=65493';" title="Register Domain name and Buy Affordable Hosting">NameCheap.com</a>
